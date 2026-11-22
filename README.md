@@ -2,11 +2,15 @@
 
 Sociologo dell'innovazione e della trasformazione digitale. **Studio come il digitale cambia le organizzazioni, e costruisco gli strumenti che ne derivano.**
 
-Ho insegnato al Dipartimento di Sociologia e Ricerca Sociale dell'Università di Milano-Bicocca e, dal 2013 al 2019, sono stato Delegato del Rettore per l'Innovazione e la Competitività all'Università degli Studi di Torino, dove ho coordinato i progetti di Smart Education e i laboratori sulle Smart Communities.
+Ho insegnato per vent'anni all'università, a Torino e a Milano-Bicocca, e dal 2013 al 2019. 
+
+Sono stato Delegato del Rettore per l'Innovazione e la Competitività all'Università degli Studi di Torino, dove ho coordinato i progetti di Smart Education e i laboratori sulle Smart Communities.
 
 Per l'Università degli Studi di Torino, fra il 2017 e il 2019, ho **ideato e condotto Piemonte 2029**, il progetto a supporto della **Strategia della Regione Piemonte per l'intelligenza artificiale**: un'istituzione pubblica che decide, su scala regionale, come e dove adottarla. Il modello di Knowledge Interchange, che ne era la base teorica, e il progetto stesso sono raccontati in un articolo su *Autonomie locali e servizi sociali*, 1/2020.
 
 Nel 2018 ho firmato con Maurizio Ferraris *Scienza nuova. Ontologia della trasformazione digitale* (Rosenberg & Sellier): la tesi è che il capitale, oggi, si faccia di **documenti e dati** generati dalle interazioni.
+
+**Non è la prima volta che costruisco.** Dal 2004 al 2018 sono stato socio fondatore e amministratore di una società di software, e sono inventore e titolare di un brevetto sull'accesso ai contenuti informativi, depositato nel 2008 e concesso nel 2012 — la stessa materia di cui mi occupo adesso, vent'anni prima.
 
 **Oggi quella tesi la costruisco.** Due prodotti, due registri — uno istituzionale, uno di consumo — e la stessa idea sotto: che un'interazione diventi un documento, e che di quel documento si possa rispondere.
 
