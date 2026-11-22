@@ -6,7 +6,7 @@ Ho insegnato al Dipartimento di Sociologia e Ricerca Sociale dell'Università di
 
 Per l'Università degli Studi di Torino, fra il 2017 e il 2019, ho **ideato e condotto Piemonte 2029**, il progetto a supporto della **Strategia della Regione Piemonte per l'intelligenza artificiale**: un'istituzione pubblica che decide, su scala regionale, come e dove adottarla. Il modello di Knowledge Interchange, che ne era la base teorica, e il progetto stesso sono raccontati in un articolo su *Autonomie locali e servizi sociali*, 1/2020.
 
-Nel 2019 ho firmato con Maurizio Ferraris *Scienza nuova. Ontologia della trasformazione digitale* (Rosenberg & Sellier): la tesi è che il capitale, oggi, si faccia di **documenti e dati** generati dalle interazioni.
+Nel 2018 ho firmato con Maurizio Ferraris *Scienza nuova. Ontologia della trasformazione digitale* (Rosenberg & Sellier): la tesi è che il capitale, oggi, si faccia di **documenti e dati** generati dalle interazioni.
 
 **Oggi quella tesi la costruisco.** Due prodotti, due registri — uno istituzionale, uno di consumo — e la stessa idea sotto: che un'interazione diventi un documento, e che di quel documento si possa rispondere.
 
