@@ -2,9 +2,9 @@
 
 Sociologo dell'innovazione e della trasformazione digitale. **Studio come il digitale cambia le organizzazioni, e costruisco gli strumenti che ne derivano.**
 
-Ho insegnato per vent'anni all'università, a Torino e a Milano-Bicocca, e dal 2013 al 2019. 
+Ho insegnato per vent'anni all'università, a Torino e a Milano-Bicocca.
 
-Sono stato Delegato del Rettore per l'Innovazione e la Competitività all'Università degli Studi di Torino, dove ho coordinato i progetti di Smart Education e i laboratori sulle Smart Communities.
+Dal 2013 al 2019 sono stato Delegato del Rettore per l'Innovazione e la Competitività all'Università degli Studi di Torino, dove ho coordinato i progetti di Smart Education e i laboratori sulle Smart Communities.
 
 Per l'Università degli Studi di Torino, fra il 2017 e il 2019, ho **ideato e condotto Piemonte 2029**, il progetto a supporto della **Strategia della Regione Piemonte per l'intelligenza artificiale**: un'istituzione pubblica che decide, su scala regionale, come e dove adottarla. Il modello di Knowledge Interchange, che ne era la base teorica, e il progetto stesso sono raccontati in un articolo su *Autonomie locali e servizi sociali*, 1/2020.
 
